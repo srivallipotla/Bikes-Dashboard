@@ -53,7 +53,10 @@ The interactive dashboard includes:
 - Dashboard Development
 - Data Visualization
 - Business Reporting
+  
+## Dashboard Preview
 
+![Bike Sales Dashboard](Bike Dashboard.png)
 
 
   
