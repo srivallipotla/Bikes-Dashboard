@@ -56,7 +56,7 @@ The interactive dashboard includes:
   
 ## Dashboard Preview
 
-![Bikes_Dashboard](Bikes-Dashboard.png)
+![BIkes_Dashboard](BIkes-Dashboard.png)
 
 
 
